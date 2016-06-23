@@ -9,5 +9,7 @@ public class NextU extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_next_u);
         /* This is our main class for our NextU Android Studio Project*/
+        
+        /* Las pruebas resultaro exitosas importar librerias adicionale para las pruebas */
     }
 }
